@@ -1,0 +1,5 @@
+Placeholder for now.
+
+The intention is to create an optimising compiler for Common Lisp, with
+Emacs bytecode output.  It will be written in Common Lisp, and should run
+primarily in Emacs Common Lisp, but also other CL implementations.
